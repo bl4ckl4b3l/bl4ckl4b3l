@@ -75,6 +75,6 @@ Eager to gain hands-on experience with security tools and workflows on projects 
 </div>
 
 ## Projects
-- Detection Lab
+- [Homelab Network Setup](https://github.com/bl4ckl4b3l/Homelab-Groundwork)
 - SOC Automation Project
 - Homelab network using OPNsense
