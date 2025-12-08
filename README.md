@@ -3,11 +3,11 @@
 
 [Brief Introduction]
 
-I am a cybersecurity enthusiast pursuing a B.S. in Cybersecurity & Information Assurance at WGU (starting Jan 2026). I'm supplementing my learning with hands-on with homelab projects (SIEM+SOAR, AD pentesting, Azure incident response), TryHackMe SOC path, and industry certifications.
+I am a cybersecurity enthusiast pursuing a B.S. in Cybersecurity & Information Assurance at WGU (starting Jan 2026). I'm supplementing my learning with hands-on with homelab projects, real-world GRC work, TryHackMe, and industry certifications.
 
 [Objective]
 
-Eager to gain hands-on experience with security tools and workflows on projects to build a foundation for a future Security Engineer role. Focused on self-taught skills to implement practical, scalable defenses that protect company and personal data, while proving initiative to make the career change from VoIP Network Support to Cybersecurity Analyst.
+Currently experimenting with Proxmox, Docker, Traefik, Wazuh, Security Onion, Pi-hole, and various SIEM/EDR tools to better understand modern threat detection, network security, and automated defenses. My goal is to continuously improve practical skills in vulnerability management, incident response, and secure infrastructure design — bringing stronger security-minded decisions and solutions to both personal projects and day-to-day enterprise environments.
 
 
 ## Tools
