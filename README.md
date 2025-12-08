@@ -77,4 +77,4 @@ Eager to gain hands-on experience with security tools and workflows on projects 
 ## Projects
 - [Homelab Network Setup](https://github.com/bl4ckl4b3l/Homelab-Groundwork)
 - [Home Perimeter Network Security](https://github.com/bl4ckl4b3l/Homelab-Perimeter-Security-2025)
-- Homelab network using OPNsense
+- [Homelab Network using OPNsense](https://github.com/bl4ckl4b3l/-My-First-Homelab-Proxmox-OPNsense-Firewall-Pi-hole-Network-wide-Ad-Blocking-)
