@@ -76,5 +76,5 @@ Eager to gain hands-on experience with security tools and workflows on projects 
 
 ## Projects
 - [Homelab Network Setup](https://github.com/bl4ckl4b3l/Homelab-Groundwork)
-- SOC Automation Project
+- [Home Perimeter Network Security](https://github.com/bl4ckl4b3l/Homelab-Perimeter-Security-2025)
 - Homelab network using OPNsense
