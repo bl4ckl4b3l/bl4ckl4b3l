@@ -14,48 +14,46 @@ Currently experimenting with Proxmox, Docker, Traefik, Wazuh, Security Onion, Au
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OPNsense-2E2E2E?style=for-the-badge&logo=opnsense&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HAProxy-1A1A1A?style=for-the-badge&logo=haproxy&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Traefik-24C1ED?style=for-the-badge&logo=traefik&logoColor=white" />
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+  <a href="https://suricata.io/" target="_blank"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a>
+  <a href="https://zeek.org/" target="_blank"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a>
+  <a href="https://opnsense.org/" target="_blank"><img src="https://img.shields.io/badge/-OPNsense-2E2E2E?style=for-the-badge&logo=opnsense&logoColor=white" /></a>
+  <a href="https://www.haproxy.org/" target="_blank"><img src="https://img.shields.io/badge/-HAProxy-1A1A1A?style=for-the-badge&logo=haproxy&logoColor=white" /></a>
+  <a href="https://traefik.io/traefik/" target="_blank"><img src="https://img.shields.io/badge/-Traefik-24C1ED?style=for-the-badge&logo=traefik&logoColor=white" /></a>
 </div>
 
-### Endpoint
+### Endpoint & Detection
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-00B4D8?style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Security%20Onion-FF6F20?style=for-the-badge&logo=securityonion&logoColor=white" />
+  <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+  <a href="https://docs.velociraptor.app/" target="_blank"><img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /></a>
+  <a href="https://wazuh.com/" target="_blank"><img src="https://img.shields.io/badge/-Wazuh-00B4D8?style=for-the-badge&logo=wazuh&logoColor=white" /></a>
+  <a href="https://securityonionsolutions.com/" target="_blank"><img src="https://img.shields.io/badge/-Security%20Onion-FF6F20?style=for-the-badge&logo=securityonion&logoColor=white" /></a>
 </div>
 
-### SIEM
+### Identity & Access
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-2A4DD0?style=for-the-badge&logo=wazuh&logoColor=white" />
-
-</div>
-
-### Orchestration
-<div>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-Proxmox-F57C00?style=for-the-badge&logo=proxmox&logoColor=white" />
-
-</div>
-
-### Identity & Access Management
-<div>
-<img src="https://img.shields.io/badge/-Authentik-0A0A0A?style=for-the-badge&logo=authentik&logoColor=white" />
-
+  <a href="https://goauthentik.io/" target="_blank"><img src="https://img.shields.io/badge/-Authentik-0A0A0A?style=for-the-badge&logo=authentik&logoColor=white" /></a>
 </div>
 
 ### Threat Blocking & Privacy
 <div>
-<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-<img src="https://img.shields.io/badge/-CrowdSec-FF6F61?style=for-the-badge&logo=crowdsec&logoColor=white" />
-<img src="https://img.shields.io/badge/-Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" />
+  <a href="https://www.crowdsec.net/" target="_blank"><img src="https://img.shields.io/badge/-CrowdSec-FF6F61?style=for-the-badge&logo=crowdsec&logoColor=white" /></a>
+  <a href="https://pi-hole.net/" target="_blank"><img src="https://img.shields.io/badge/-Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" /></a>
+</div>
+
+### SIEM & Logging
+<div>
+  <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+  <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
+  <a href="https://wazuh.com/" target="_blank"><img src="https://img.shields.io/badge/-Wazuh-2A4DD0?style=for-the-badge&logo=wazuh&logoColor=white" /></a>
+</div>
+
+### Orchestration & Virtualization
+<div>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview" target="_blank"><img src="https://img.shields.io/badge/-Proxmox-F57C00?style=for-the-badge&logo=proxmox&logoColor=white" /></a>
+</div>
 
 </div>
 
