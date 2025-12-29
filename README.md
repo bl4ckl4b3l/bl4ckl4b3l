@@ -1,5 +1,5 @@
 # Hello, I'm Kyle
-<a href="www.linkedin.com/in/kyleawarner"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kyleawarner"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction]
 
@@ -7,7 +7,7 @@ I am a cybersecurity enthusiast pursuing a B.S. in Cybersecurity & Information A
 
 [Objective]
 
-Currently experimenting with Proxmox, Docker, Traefik, Wazuh, Security Onion, Pi-hole, and various SIEM/EDR tools to better understand modern threat detection, network security, and automated defenses. My goal is to continuously improve practical skills in vulnerability management, incident response, and secure infrastructure design — bringing stronger security-minded decisions and solutions to both personal projects and day-to-day enterprise environments.
+Currently experimenting with Proxmox, Docker, Traefik, Wazuh, Security Onion, Authentik, Pi-hole, and various SIEM/EDR tools to better understand modern threat detection, network security, and automated defenses. My goal is to continuously improve practical skills in vulnerability management, incident response, and secure infrastructure design — bringing stronger security-minded decisions and solutions to both personal projects and day-to-day enterprise environments.
 
 
 ## Tools
@@ -15,7 +15,6 @@ Currently experimenting with Proxmox, Docker, Traefik, Wazuh, Security Onion, Pi
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-OPNsense-2E2E2E?style=for-the-badge&logo=opnsense&logoColor=white" />
     <img src="https://img.shields.io/badge/-HAProxy-1A1A1A?style=for-the-badge&logo=haproxy&logoColor=white" />
@@ -43,6 +42,20 @@ Currently experimenting with Proxmox, Docker, Traefik, Wazuh, Security Onion, Pi
 <div>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-Proxmox-F57C00?style=for-the-badge&logo=proxmox&logoColor=white" />
+
+</div>
+
+### Identity & Access Management
+<div>
+<img src="https://img.shields.io/badge/-Authentik-0A0A0A?style=for-the-badge&logo=authentik&logoColor=white" />
+
+</div>
+
+### Threat Blocking & Privacy
+<div>
+<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/-CrowdSec-FF6F61?style=for-the-badge&logo=crowdsec&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" />
 
 </div>
 
@@ -74,6 +87,16 @@ Currently experimenting with Proxmox, Docker, Traefik, Wazuh, Security Onion, Pi
 
 </div>
 
+### Current Homelab Overview
+Proactive blue-team focused lab built on Proxmox virtualization with UDM-Pro perimeter firewall:
+- Distributed Wazuh agents + manager for endpoint detection and vulnerability scanning
+- Security Onion for network IDS (Suricata/Zeek) and full packet capture
+- Authentik for SSO and zero-trust application access
+- CrowdSec for collaborative IPS/blocking and bounce-ban protection
+- Pi-hole for network-wide ad/telemetry blocking and DNS filtering
+- Traefik reverse proxy with automated Let's Encrypt HTTPS
+- Monitoring via Prometheus/Grafana and centralized logging to Wazuh SIEM
+
 ## Projects
 - [Homelab Network Setup](https://github.com/bl4ckl4b3l/Homelab-Groundwork)
 - [Home Perimeter Network Security](https://github.com/bl4ckl4b3l/Homelab-Perimeter-Security-2025)
@@ -81,3 +104,4 @@ Currently experimenting with Proxmox, Docker, Traefik, Wazuh, Security Onion, Pi
 - [Homelab Distributed Wazuh SIEM](https://github.com/bl4ckl4b3l/wazuh-distributed-homelab/tree/main)
 - [Homelab Monitoring Stack](https://github.com/bl4ckl4b3l/Observability-Stack-in-my-Docker-Home-Lab/tree/main)
 - [Homelab Self-Hosted Cloud Solution](https://github.com/bl4ckl4b3l/Homelab-Self-Hosted-Cloud-Storage-Project-Immich-Zer0-Drive-Cloudreve-/blob/main/README.md)
+- [Homelab SSO & Zero-Trust Access](https://github.com/bl4ckl4b3l/Homelab-SSO-with-Authentik-Centralized-Authentication-and-Zero-Trust-Access-Controls/tree/main)
