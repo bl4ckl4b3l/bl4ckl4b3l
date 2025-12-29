@@ -80,3 +80,4 @@ Currently experimenting with Proxmox, Docker, Traefik, Wazuh, Security Onion, Pi
 - [Homelab Network using OPNsense](https://github.com/bl4ckl4b3l/-My-First-Homelab-Proxmox-OPNsense-Firewall-Pi-hole-Network-wide-Ad-Blocking-)
 - [Homelab Distributed Wazuh SIEM](https://github.com/bl4ckl4b3l/wazuh-distributed-homelab/tree/main)
 - [Homelab Monitoring Stack](https://github.com/bl4ckl4b3l/Observability-Stack-in-my-Docker-Home-Lab/tree/main)
+- [Homelab Self-Hosted Cloud Solution](https://github.com/bl4ckl4b3l/Homelab-Self-Hosted-Cloud-Storage-Project-Immich-Zer0-Drive-Cloudreve-/blob/main/README.md)
