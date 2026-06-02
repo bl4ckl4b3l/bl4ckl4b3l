@@ -3,7 +3,7 @@
 
 [Brief Introduction]
 
-I am a cybersecurity enthusiast pursuing a B.S. in Cybersecurity & Information Assurance at WGU (starting Jan 2026). I'm supplementing my learning with hands-on with homelab projects, real-world GRC work, TryHackMe, and industry certifications.
+I am a cybersecurity enthusiast completing my B.S. in Cybersecurity & Information Assurance at WGU (graduating 2026). I'm supplementing my learning with hands-on with homelab projects, real-world GRC work, TryHackMe, and industry certifications.
 
 [Objective]
 
