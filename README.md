@@ -1,105 +1,54 @@
-# Hello, I'm Kyle
-<a href="https://www.linkedin.com/in/kyleawarner"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Kyle 👋
 
-[Brief Introduction]
+### Cybersecurity Professional & Systems Administrator
 
-I am a cybersecurity enthusiast and WGU graduate with a B.S. in Cybersecurity & Information Assurance. I continuously refine my skill set through hands-on technical architecture, security operations, real-world GRC work, TryHackMe, and industry certifications.
+I am a cybersecurity professional and WGU graduate with a B.S. in Cybersecurity & Information Assurance. I specialize in defensive security architecture, enterprise network engineering, and system operations. I continuously refine my skill set through hands-on technical labs, real-world GRC integration, and industry certifications.
 
-[Objective]
+**Objective**  
+Actively engineering defensive homelab infrastructure using Proxmox, Docker, Ubiquiti, Wazuh, Authentik, Traefik, and integrated SIEM platforms to master modern threat detection, network segmentation, and automated incident response. My focus is applying practical expertise in vulnerability management, secure network architecture, and defensive operations to strengthen security posture across both lab environments and enterprise production infrastructures.
 
-Actively building and engineering a defensive homelab infrastructure using Proxmox, Docker, Ubiquiti, Wazuh, Traefik, Authentik, and integrated SIEM platforms to master modern threat detection, network segmentation, and automated incident response. My focus is applying practical expertise in vulnerability management, secure network architecture, and defensive operations to strengthen security posture across personal lab environments and production enterprise infrastructures.
+---
 
-## Tools
+### 🛠️ Technical Stack & Tools
 
-### Network
-<div>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
-  <a href="https://suricata.io/" target="_blank"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a>
-  <a href="https://zeek.org/" target="_blank"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a>
-  <a href="https://opnsense.org/" target="_blank"><img src="https://img.shields.io/badge/-OPNsense-2E2E2E?style=for-the-badge&logo=opnsense&logoColor=white" /></a>
-  <a href="https://www.haproxy.org/" target="_blank"><img src="https://img.shields.io/badge/-HAProxy-1A1A1A?style=for-the-badge&logo=haproxy&logoColor=white" /></a>
-  <a href="https://traefik.io/traefik/" target="_blank"><img src="https://img.shields.io/badge/-Traefik-24C1ED?style=for-the-badge&logo=traefik&logoColor=white" /></a>
-</div>
+**Network & Perimeter Security**  
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-055348?style=flat&logo=ubiquiti&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1DE?style=flat&logo=traefik&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--Hole-96060C?style=flat&logo=pi-hole&logoColor=white)
 
-### Endpoint & Detection
-<div>
-  <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-  <a href="https://docs.velociraptor.app/" target="_blank"><img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /></a>
-  <a href="https://wazuh.com/" target="_blank"><img src="https://img.shields.io/badge/-Wazuh-00B4D8?style=for-the-badge&logo=wazuh&logoColor=white" /></a>
-  <a href="https://securityonionsolutions.com/" target="_blank"><img src="https://img.shields.io/badge/-Security%20Onion-FF6F20?style=for-the-badge&logo=securityonion&logoColor=white" /></a>
-</div>
+**Endpoint, Detection & SIEM**  
+![Wazuh](https://img.shields.io/badge/Wazuh-0052CC?style=flat&logo=wazuh&logoColor=white)
+![Security Onion](https://img.shields.io/badge/Security_Onion-1D2B3A?style=flat&logo=linux&logoColor=white)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-FF6C37?style=flat&logo=crowdsec&logoColor=white)
 
-### Identity & Access
-<div>
-  <a href="https://goauthentik.io/" target="_blank"><img src="https://img.shields.io/badge/-Authentik-0A0A0A?style=for-the-badge&logo=authentik&logoColor=white" /></a>
-  <a href="https://img.shields.io/badge/microsoft-entra-id?logo=microsoftentra" /></a>
-</div>
+**Identity, Virtualization & Orchestration**  
+![Authentik](https://img.shields.io/badge/Authentik-FD4F00?style=flat&logo=authentik&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### Threat Blocking & Privacy
-<div>
-  <a href="https://www.crowdsec.net/" target="_blank"><img src="https://img.shields.io/badge/-CrowdSec-FF6F61?style=for-the-badge&logo=crowdsec&logoColor=white" /></a>
-  <a href="https://pi-hole.net/" target="_blank"><img src="https://img.shields.io/badge/-Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" /></a>
-</div>
+---
 
-### SIEM & Logging
-<div>
-  <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-  <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
-  <a href="https://wazuh.com/" target="_blank"><img src="https://img.shields.io/badge/-Wazuh-2A4DD0?style=for-the-badge&logo=wazuh&logoColor=white" /></a>
-</div>
+### 📜 Certifications
+* **CompTIA:** Security+ | CySA+ | Pentest+ | Network+ | A+ | Data+
+* **LPI:** Linux Essentials
 
-### Orchestration & Virtualization
-<div>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview" target="_blank"><img src="https://img.shields.io/badge/-Proxmox-F57C00?style=for-the-badge&logo=proxmox&logoColor=white" /></a>
-</div>
+---
 
-</div>
+### 🛡️ Defensive Homelab Architecture
 
-## Certifications
-<div>
-<!-- CompTIA A+ -->
-<img src="https://img.shields.io/badge/-Security%2B-E83E2C?style=for-the-badge&logo=CompTIA&logoColor=white" />
+Enterprise-grade, blue-team-focused lab designed around zero-trust principles, active telemetry collection, and multi-layered defense:
 
-<!-- CompTIA CySA+ -->
-<img src="https://img.shields.io/badge/-CySA%2B-E83E2C?style=for-the-badge&logo=CompTIA&logoColor=white" />
+* **Perimeter & Network Segmentation:** Multi-VLAN architecture routed via Ubiquiti UDM-Pro with strict inter-VLAN firewall rules and automated intrusion detection.
+* **Endpoint Detection & Vulnerability Scanning:** Distributed Wazuh agents integrated with a central manager for real-time file integrity monitoring (FIM), audit logging, and vulnerability assessment.
+* **Network Traffic Analysis:** Security Onion deployment utilizing Suricata for NIDS and Zeek for high-fidelity network metadata capture.
+* **Identity & Access Management:** Authentik centralized SSO enforcement backed by automated TLS termination via Traefik reverse proxy.
+* **Collaborative IPS & Threat Blocking:** CrowdSec integrated with perimeter firewalls for automated dynamic IP ban lists, complemented by Pi-hole for network-wide DNS filtering.
+* **Observability:** Centralized logging, metric scraping with Prometheus, and visualization dashboards via Grafana.
 
-<!-- CompTIA Security Analytics Professional -->
-<a href="https://www.credly.com/badges/0b03780b-c458-471c-8049-03374c2816fe/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/-Security%20Analytics%20Professional-E83E2C?style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
+---
 
-<!-- Microsoft SC-900 -->
-<img src="https://img.shields.io/badge/-SC--900-5E5EEC?style=for-the-badge&logo=Microsoft&logoColor=white" />
+### 📌 Highlighted Projects
 
-<!-- Microsoft Cybersecurity Analyst -->
-<a href="https://www.credly.com/badges/a5b154ae-9094-43b9-afde-5f1857c5716c/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/-Microsoft%20Cybersecurity%20Analyst-5E5EEC?style=for-the-badge&logo=Microsoft&logoColor=white" />
-</a>
-
-<!-- Google Cybersecurity Professional -->
-<a href="https://www.credly.com/badges/d1c45123-f908-4225-b53d-4824d2e985e3/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4D4D4D?style=for-the-badge&logo=Google&logoColor=white" />
-</a>
-
-</div>
-
-### Current Homelab Overview
-Proactive blue-team focused lab built on Proxmox virtualization with UDM-Pro perimeter firewall:
-- Distributed Wazuh agents + manager for endpoint detection and vulnerability scanning
-- Security Onion for network IDS (Suricata/Zeek) and full packet capture
-- Authentik for SSO and zero-trust application access
-- CrowdSec for collaborative IPS/blocking and bounce-ban protection
-- Pi-hole for network-wide ad/telemetry blocking and DNS filtering
-- Traefik reverse proxy with automated Let's Encrypt HTTPS
-- Monitoring via Prometheus/Grafana and centralized logging to Wazuh SIEM
-
-## Projects
-- [Homelab Network Setup](https://github.com/bl4ckl4b3l/Homelab-Groundwork)
-- [Home Perimeter Network Security](https://github.com/bl4ckl4b3l/Homelab-Perimeter-Security-2025)
-- [Homelab Network using OPNsense](https://github.com/bl4ckl4b3l/-My-First-Homelab-Proxmox-OPNsense-Firewall-Pi-hole-Network-wide-Ad-Blocking-)
-- [Homelab Distributed Wazuh SIEM](https://github.com/bl4ckl4b3l/wazuh-distributed-homelab/tree/main)
-- [Homelab Monitoring Stack](https://github.com/bl4ckl4b3l/Observability-Stack-in-my-Docker-Home-Lab/tree/main)
-- [Homelab Self-Hosted Cloud Solution](https://github.com/bl4ckl4b3l/Homelab-Self-Hosted-Cloud-Storage-Project-Immich-Zer0-Drive-Cloudreve-/blob/main/README.md)
-- [Homelab SSO & Zero-Trust Access](https://github.com/bl4ckl4b3l/Homelab-SSO-with-Authentik-Centralized-Authentication-and-Zero-Trust-Access-Controls/tree/main)
+* **[Homelab Distributed Wazuh SIEM](./)** — Multi-node deployment monitoring cross-VLAN Linux/Windows endpoints with custom alert routing.
+* **[Homelab SSO & Zero-Trust Access](./)** — Unified identity management using Authentik, enforcing OIDC/SAML authentication and MFA across self-hosted services.
+* **[Home Perimeter Network Security](./)** — VLAN-isolated network architecture separating trusted internal hosts, IoT traffic, and lab environments.
