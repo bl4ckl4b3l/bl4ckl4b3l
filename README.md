@@ -3,12 +3,11 @@
 
 [Brief Introduction]
 
-I am a cybersecurity enthusiast completing my B.S. in Cybersecurity & Information Assurance at WGU (graduating 2026). I'm supplementing my learning with hands-on with homelab projects, real-world GRC work, TryHackMe, and industry certifications.
+I am a cybersecurity enthusiast and WGU graduate with a B.S. in Cybersecurity & Information Assurance. I continuously refine my skill set through hands-on technical architecture, security operations, real-world GRC work, TryHackMe, and industry certifications.
 
 [Objective]
 
-Currently experimenting with Proxmox, Docker, Traefik, Wazuh, Security Onion, Authentik, Pi-hole, and various SIEM/EDR tools to better understand modern threat detection, network security, and automated defenses. My goal is to continuously improve practical skills in vulnerability management, incident response, and secure infrastructure design — bringing stronger security-minded decisions and solutions to both personal projects and day-to-day enterprise environments.
-
+Actively building and engineering a defensive homelab infrastructure using Proxmox, Docker, Ubiquiti, Wazuh, Traefik, Authentik, and integrated SIEM platforms to master modern threat detection, network segmentation, and automated incident response. My focus is applying practical expertise in vulnerability management, secure network architecture, and defensive operations to strengthen security posture across personal lab environments and production enterprise infrastructures.
 
 ## Tools
 
