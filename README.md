@@ -32,6 +32,7 @@ Actively building and engineering a defensive homelab infrastructure using Proxm
 ### Identity & Access
 <div>
   <a href="https://goauthentik.io/" target="_blank"><img src="https://img.shields.io/badge/-Authentik-0A0A0A?style=for-the-badge&logo=authentik&logoColor=white" /></a>
+  <a href="https://img.shields.io/badge/microsoft-entra-id?logo=microsoftentra" /></a>
 </div>
 
 ### Threat Blocking & Privacy
