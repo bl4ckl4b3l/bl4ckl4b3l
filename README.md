@@ -49,6 +49,7 @@ Enterprise-grade, blue-team-focused lab designed around zero-trust principles, a
 
 ### 📌 Highlighted Projects
 
-* **[Homelab Distributed Wazuh SIEM](https://github.com/bl4ckl4b3l/wazuh-distributed-homelab)** — Multi-node deployment monitoring cross-VLAN Linux/Windows endpoints with custom alert routing.
-* **[Homelab SSO & Zero-Trust Access](https://github.com/bl4ckl4b3l/Homelab-SSO-with-Authentik-Centralized-Authentication-and-Zero-Trust-Access-Controls)** — Unified identity management using Authentik, enforcing OIDC/SAML authentication and MFA across self-hosted services.
-* **[Home Perimeter Network Security](https://github.com/bl4ckl4b3l/Homelab-Perimeter-Security-2025)** — VLAN-isolated network architecture separating trusted internal hosts, IoT traffic, and lab environments.
+* **[Homelab Distributed Wazuh SIEM](https://github.com/bl4ckl4b3l/wazuh-distributed-homelab)** -- Multi-node deployment monitoring cross-VLAN Linux/Windows endpoints with custom alert routing.
+* **[Homelab SSO & Zero-Trust Access](https://github.com/bl4ckl4b3l/Homelab-SSO-with-Authentik-Centralized-Authentication-and-Zero-Trust-Access-Controls)** -- Unified identity management using Authentik, enforcing OIDC/SAML authentication and MFA across self-hosted services.
+* **[Home Perimeter Network Security](https://github.com/bl4ckl4b3l/Homelab-Perimeter-Security-2025)** -- VLAN-isolated network architecture separating trusted internal hosts, IoT traffic, and lab environments.
+* **[Homelab Network Monitoring with Netdata](https://github.com/bl4ckl4b3l/Homelab-Real-time-Monitoring-with-Netdata)** -- Installed Netdata to pull key metrics from machines in my home network. 
